@@ -6,7 +6,8 @@
 
 <h2>📃 Certifications </h2>
 
-- [Dion Training Comptia A+1101 Course ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Dion Training Comptia A+1101 Training Course ](https://imgur.com/a/4SELSU5)
+- [Dion Training Comptia A+1102 Training Course ](https://imgur.com/a/adIRuz7)
 
 
 
