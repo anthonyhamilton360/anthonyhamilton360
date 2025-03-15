@@ -1,19 +1,19 @@
 <h1>Hi, I'm Anthony! </h1>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/anthonyhamilton360/URL)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>📃 Certifications </h2>
 
 - [Dion Training Comptia A+1101 Training Course ](https://imgur.com/a/4SELSU5)
 - [Dion Training Comptia A+1102 Training Course ](https://imgur.com/a/adIRuz7)
-
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
