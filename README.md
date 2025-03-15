@@ -6,9 +6,12 @@
   - [osTicket: Prerequisites and Installation](https://github.com/anthonyhamilton360/ostickets-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/anthonyhamilton360/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/anthonyhamilton360/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
+  - [Deploying Active Directory](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating Users with Powershell](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Group Policy and Managing Accounts](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 <h2>📃 Certifications </h2>
 
