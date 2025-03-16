@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/anthonyhamilton360/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
-  - [Deploying Active Directory](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Deploying Active Directory](https://github.com/anthonyhamilton360/activedirectory-deploy)
   - [Creating Users with Powershell](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Group Policy and Managing Accounts](https://github.com/joshmadakorcc/azure-network-protocols)
 
