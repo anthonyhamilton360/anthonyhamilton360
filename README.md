@@ -9,7 +9,7 @@
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
   - [Deploying Active Directory](https://github.com/anthonyhamilton360/activedirectory-deploy)
-  - [Creating Users with Powershell](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating Users with Powershell](https://github.com/anthonyhamilton360/activedirectory-powershell)
   - [Group Policy and Managing Accounts](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
