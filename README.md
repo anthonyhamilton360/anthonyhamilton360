@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/anthonyhamilton360/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/anthonyhamilton360/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/anthonyhamilton360/ActiveDirectoryLab)
   - [Deploying Active Directory](https://github.com/anthonyhamilton360/activedirectory-deploy)
   - [Creating Users with Powershell](https://github.com/anthonyhamilton360/activedirectory-powershell)
   - [Group Policy and Managing Accounts](https://github.com/anthonyhamilton360/ad-group-policy)
