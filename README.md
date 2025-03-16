@@ -10,7 +10,7 @@
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
   - [Deploying Active Directory](https://github.com/anthonyhamilton360/activedirectory-deploy)
   - [Creating Users with Powershell](https://github.com/anthonyhamilton360/activedirectory-powershell)
-  - [Group Policy and Managing Accounts](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Group Policy and Managing Accounts](https://github.com/anthonyhamilton360/ad-group-policy)
 
 
 <h2>📃 Certifications </h2>
