@@ -12,7 +12,7 @@
   - [Creating Users with Powershell](https://github.com/anthonyhamilton360/activedirectory-powershell)
   - [Group Policy and Managing Accounts](https://github.com/anthonyhamilton360/ad-group-policy)
  - <b>Inspecting Network Protocols in Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anthonyhamilton360/azure-network-protocols)
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anthonyhamilton360/azure-network-protocols)
 
 
 
